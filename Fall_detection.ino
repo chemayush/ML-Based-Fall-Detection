@@ -124,6 +124,7 @@ void loop() {
           Serial.println("FALL!");
         }
       }
+      
     }
   }
 }
